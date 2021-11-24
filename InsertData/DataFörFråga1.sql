@@ -1,0 +1,1 @@
+insert into Spelare(PersonNr,Namn,Ålder) values("19961031-5678","Johan Andersson",25); 
