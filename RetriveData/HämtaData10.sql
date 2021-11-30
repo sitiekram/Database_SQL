@@ -1,2 +1,2 @@
 use golftävling;
-select ålder from spelare;
+select AVG(ålder) from spelare;
